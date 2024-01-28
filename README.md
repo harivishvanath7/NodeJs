@@ -1,6 +1,6 @@
 # Node.js Learning
 
-Welcome to my Node.js Learning Repository! This repository contains code files and examples related to my journey of learning various concepts of Node.js.
+Welcome to my Node.js Learning Repository! This repository contains the code files and examples related to my journey of learning various concepts of Node.js.
 
 ## Table of Contents
 
